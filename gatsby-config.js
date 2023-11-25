@@ -1,13 +1,13 @@
 module.exports = {
   plugins: [
     {
-      resolve: "gatsby-theme-portfolio-minimal",
+      resolve: "gatsby-theme-portfolio-minimal", // npm 모듈에서 이거 가져옴 no touch
       options: {
         siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
-          siteName: "My Minimal Portfolio", // Used in manifest.json
-          shortName: "Portfolio", // Used in manifest.json
+          siteName: "창우님 따라 만들어본 블로그", // Used in manifest.json 추후 수정
+          shortName: "Portfolio", // Used in manifest.json 추후 수정
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json
           themeColor: "#000000", // Used in manifest.json

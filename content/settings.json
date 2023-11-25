@@ -22,7 +22,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "", "url": "" },
         { "label": "Github", "url": "https://github.com/HyeJiRoh" }
       ],
       "ctaButton": {

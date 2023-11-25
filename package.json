@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "gatsby": "^5.0.1",
-    "gatsby-theme-portfolio-minimal": "latest",
+    "gatsby-theme-portfolio-minimal": "github:woo3145/gatsby-theme-portfolio-minimal-custom#main",
+    "lucide-react": "^0.293.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
